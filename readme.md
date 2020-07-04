@@ -2,8 +2,9 @@
 
 How to run?
 
-To run server -- At root folder  , run npm install  then npm start
 
-To run client -- Go to /Client , run npm install then npm start
+Go to /Client , run npm install
 
-Redirect to localhost:3000
+Go to root folder run npm install then npm start
+
+Redirect to localhost:5000
